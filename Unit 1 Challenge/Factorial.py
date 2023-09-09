@@ -6,4 +6,3 @@ def fact(n):
 num=int(input("Enter a number : "))
 res=fact(num)
 print("Factorial of {} is  {}".format(num,res))
-#by Arunlal
